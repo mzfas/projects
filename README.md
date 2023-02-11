@@ -14,7 +14,7 @@
 
 
 
-## [Анализ 10000 самых прослушиваемых песен приложения Spotify](https://github.com/mzfas/projects/blob/main/spotify.ipynb)
+## [Анализ самых прослушиваемых песен приложения Spotify](https://github.com/mzfas/projects/blob/main/spotify.ipynb)
 **Навыки и инструменты:** предобработка данных, Pandas, Matplotlib.pyplot, Seaborn.
 
 **Описание проекта:** Анализ самых успешных исполнителей и песен стримингового сервиса Spotify на основе 10000 самых прослушиваемых треков платформы.
