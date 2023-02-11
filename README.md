@@ -21,5 +21,7 @@
 
 
 
-## [Анализ результатов A/B тестирования мобильного приложения cookie_cats](https://github.com/mzfas/projects/blob/main/cookie_cats_ab_test.ipynb)
+## [Анализ результатов A/B тестирования мобильного приложения Cookie Cats](https://github.com/mzfas/projects/blob/main/cookie_cats_ab_test.ipynb)
 **Навыки и инструменты:** предобработка данных, Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез.
+
+**Описание проекта:** Предобработка и анализ результатов А/Б тестирования игры Cookie Cats с итоговым выводом по целесообразности принятия изменений в приложении.
